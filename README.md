@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Nupur</h1>
 # 💫 About Me:
 🔭 I’m currently working on:<br>Learning Java and building small coding projects  <br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly projects and web development  <br><br>🤝 I’m looking for help with:<br>Backend development and real-world project ideas  <br><br>🌱 I’m currently learning:<br>Java, Data Structures & Algorithms, Git & GitHub  <br><br>💬 Ask me about:<br>Java basics and coding problems  <br><br>⚡ Fun fact:<br>I want to build my own software company one day 🚀
 
